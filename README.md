@@ -37,7 +37,7 @@ This is me.I share about my skills, educational background, hobbies and my favou
 > Run using live server
 *****
 ## Live Link
-Or you can access the web application directly via this 
+Or you can access the web application directly via this https://craigau854.github.io/portfolio/https://craigau854.github.io/portfolio/
 *****
 ## Dependencies
 - Google fonts
