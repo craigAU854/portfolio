@@ -7,7 +7,7 @@ This is me.I share about my skills, educational background, hobbies and my favou
 ******
 
 ## SCREENSHOTS
--
+-<img width="819" alt="Screenshot 2023-09-19 021958" src="https://github.com/craigAU854/portfolio/assets/144823698/a6a3e858-6cb5-426b-9ad3-76797a3919a0">
 - 
 
 
@@ -37,7 +37,7 @@ This is me.I share about my skills, educational background, hobbies and my favou
 > Run using live server
 *****
 ## Live Link
-Or you can access the web application directly via this https://craigau854.github.io/portfolio/https://craigau854.github.io/portfolio/
+Or you can access the web application directly via this https://craigau854.github.io/portfolio/ 
 *****
 ## Dependencies
 - Google fonts
