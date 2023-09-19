@@ -39,7 +39,7 @@ a:hover{
 .about{
     color: black;
     position: absolute;
-    top: 40%;
+    top: 50%;
     left: 10%;
     transform: translateY(-50%);
 }
